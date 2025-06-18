@@ -3,7 +3,7 @@
 import { useState } from "react";
 import TopNavigation from "@/components/TopNavigation";
 import Sidebar from "@/components/Sidebar";
-import ConversationList from "@/components/ConversationsList";
+import ConversationList from "@/components/ConversationList";
 import ChatInterface from "@/components/ChatInterface";
 import CustomerProfile from "@/components/CustomerProfile";
 
